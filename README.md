@@ -94,6 +94,6 @@ Perform topic modeling (LDA) to extract key themes from reviews.
 
 Build a real-time sentiment dashboard using Power BI.
 
-📜 Conclusion
+## 📜 Conclusion
 
 This project provides valuable insights into customer sentiments on Zomato. The sentiment analysis and clustering techniques help restaurants understand customer feedback, improve their services, and enhance customer satisfaction.
