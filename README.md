@@ -1,10 +1,10 @@
-#Zomato Sentiment Analysis & Clustering
+# **Zomato Sentiment Analysis & Clustering**
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project focuses on analyzing customer reviews from Zomato to extract sentiments and group similar reviews using clustering techniques. By leveraging Natural Language Processing (NLP) and Machine Learning, we aim to gain insights into customer sentiments, identify key trends, and improve business decision-making.
 
-🚀 Objectives
+## 🚀 Objectives
 
 Perform sentiment analysis on customer reviews to classify them as positive, neutral, or negative.
 
@@ -14,7 +14,7 @@ Identify key factors affecting restaurant ratings.
 
 Provide data-driven insights to enhance customer experience.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Programming Language: Python
 
@@ -28,11 +28,11 @@ Visualization: Power BI, Matplotlib, Seaborn
 
 Database: MySQL (if storing structured data)
 
-📂 Dataset
+## 📂 Dataset
 
 Source: Zomato customer review dataset (can be scraped from Zomato or obtained from open-source datasets)
 
-Features:
+## Features:
 
 Review Text: Customer feedback
 
@@ -44,7 +44,7 @@ Restaurant Name: Name of the reviewed restaurant
 
 Date: Date of the review
 
-📊 Methodology
+## 📊 Methodology
 
 Data Collection & Preprocessing:
 
@@ -54,13 +54,13 @@ Cleaning text data (removing stopwords, punctuation, etc.)
 
 Tokenization & Lemmatization
 
-Sentiment Analysis:
+## Sentiment Analysis:
 
 Using VADER Sentiment Analyzer for rule-based sentiment classification
 
 Training a ML model (Naïve Bayes, Logistic Regression) for supervised sentiment classification
 
-Clustering Analysis:
+## Clustering Analysis:
 
 Applying TF-IDF Vectorization for text representation
 
@@ -68,7 +68,7 @@ Performing K-Means Clustering to group similar reviews
 
 Using DBSCAN for density-based clustering
 
-Visualization & Insights:
+## Visualization & Insights:
 
 Creating Power BI dashboards to present sentiment trends
 
@@ -76,7 +76,7 @@ Analyzing most frequent words in positive/negative reviews using word clouds
 
 Identifying key customer concerns and satisfaction factors
 
-📈 Results & Insights
+## 📈 Results & Insights
 
 The model achieved high accuracy in classifying sentiments.
 
@@ -86,7 +86,7 @@ Negative reviews revealed key pain points like service quality, food taste, and 
 
 Positive reviews highlighted aspects like ambience, friendly staff, and quick service.
 
-🔥 Future Scope
+## 🔥 Future Scope
 
 Incorporate deep learning (LSTM, BERT) for better sentiment classification.
 
